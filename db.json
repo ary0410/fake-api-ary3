@@ -1,0 +1,36 @@
+{
+  "enfermeiros": [
+    {
+      "id": 1,
+      "nome": "Luana Melo",
+      "cargo": "Enf. Cirúrgico",
+      "turno": "Tem atividade diurna",
+      "status": "Está em atendimento",
+      "urlImage": "https://images.pexels.com/photos/29995629/pexels-photo-29995629.jpeg"
+    },
+        {
+      "id": 2,
+      "nome": "Jake Smith",
+      "cargo": "Enf. Pediátrico",
+      "turno": "Tem atividade diurna",
+      "status": "Está disponível",
+      "urlImage": "https://media.gettyimages.com/id/57301242/pt/foto/portrait-of-a-young-male-nurse-smiling-with-a-stethoscope-around-his-neck.jpg?s=612x612&w=0&k=20&c=7_RwTGeviSopWLMKFESBdefqGDFfdi1mpFojPHhTMT0="
+    },
+        {
+      "id": 3,
+      "nome": "Julia Santiago",
+      "cargo": "Enf. Obstetra",
+      "turno": "Tem atividade diurna",
+      "status": "Está disponivel",
+      "urlImage": "https://media.gettyimages.com/id/157650584/pt/foto/alegre-jovem-enfermeira-em-rosa-uniforme-hospitalar.jpg?s=612x612&w=0&k=20&c=ol9einWzknAwew_OvCukNTNIeAdpBxrJgg97HwpgcFY="
+    },
+        {
+      "id": 4,
+      "nome": "Alex Gray",
+      "cargo": "Enf. de Saúde Mental",
+      "turno": "Tem atividade diurna e noturna",
+      "status": "Está em pausa",
+      "urlImage": "https://media.gettyimages.com/id/stk99507cor/pt/foto/portrait-of-a-male-nurse-and-old-female-patient-lying-in-bed.jpg?s=612x612&w=0&k=20&c=kRK3ZlOvp4ybl5ynWcy3W3KnfosT0EKibp9N0hiRh6Y="
+    },
+  ]
+}
